@@ -11,3 +11,20 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
 | `Project1` (`Resize.vbp`) | VB6 | WinForms exe | Draggable TreeView/ListView splitter demo |
+
+## How to open
+
+Open the `.vbp` in Visual Basic 6.0 IDE:
+- `Resize.vbp`
+
+## Requirements
+
+- Visual Basic 6.0 IDE
+
+## Attribution and provenance
+
+Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/Resize`.
+
+## License
+
+MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
